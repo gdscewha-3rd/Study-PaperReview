@@ -6,7 +6,7 @@
 |김시정|||
 |하수민|||
 |박채린|||
-|이은빈|||
+|이은빈|[📚](https://arxiv.org/abs/1610.05492)|[🧑🏻‍💻](https://silver-spike-7ea.notion.site/Federated-Learning-Strategies-for-Improving-Communication-Efficiency-2f0d749f6d644c408d1d462d20817b53)|
 |문수인|||
 
 <br>
