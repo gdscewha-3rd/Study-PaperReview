@@ -8,29 +8,3 @@
 |박채린|[📚](https://www.inf.unibz.it/~ricci/ISR/papers/p293-davidson.pdf)||
 |이은빈|[📚](https://arxiv.org/abs/1610.05492)|[🧑🏻‍💻](https://silver-spike-7ea.notion.site/Federated-Learning-Strategies-for-Improving-Communication-Efficiency-2f0d749f6d644c408d1d462d20817b53)|
 |문수인|[📚](https://arxiv.org/pdf/1901.11196.pdf)||
-
-<br>
-
-> 22.04.25 - 22.05.01
-
-|Name|Paper|Post (optional)|팀블로그|
-|---|:---:|:---:|:---:|
-|장서진|||
-|김시정|||
-|하수민|||
-|박채린|[📚](https://arxiv.org/pdf/2104.00298.pdf)||||
-|이은빈|||[✅]()|
-|문수인|||
-
-<br>
-
-> 22.05.02 - 22.05.08
-
-|Name|Paper|Post (optional)|팀블로그|
-|---|:---:|:---:|:---:|
-|장서진|||[✅]()|
-|김시정|||
-|하수민|||
-|박채린|||
-|이은빈|||
-|문수인|||
