@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|
 |장서진|[📚](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/LightGBM-A-Highly-Efficient-Gradient-Boosting-Decision-Tree-e6e10916e20d4ff198daf5678737fcf3)|
 |김시정|||
-|하수민|||
+|하수민|[📚](https://arxiv.org/pdf/1905.00641.pdf)||
 |박채린|[📚](https://arxiv.org/pdf/2104.00298.pdf)||||
 |이은빈|||[✅]()|
 |문수인|||
