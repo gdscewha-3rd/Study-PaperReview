@@ -6,7 +6,7 @@
 |김시정|[📚](https://arxiv.org/abs/1906.08172)||
 |하수민|[📚](https://arxiv.org/pdf/1905.00641.pdf)||
 |박채린|[📚](https://arxiv.org/pdf/2104.00298.pdf)||||
-|이은빈|||[✅]()|
+|이은빈|[📚](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129067)||[✅]()|
 |문수인|||
 
 <br>
