@@ -19,5 +19,5 @@
 |김시정|||
 |하수민|||
 |박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)||
-|이은빈|[📚](https://ieeexplore.ieee.org/document/9023098)||
+|이은빈|[📚](https://ieeexplore.ieee.org/document/9023098)|[🧑🏻‍💻](https://silver-spike-7ea.notion.site/Speech-Emotion-Recognition-Using-Speech-Feature-and-Word-Embedding-422941072f3d4f919ca34145d36b93f7)|
 |문수인|||
