@@ -17,7 +17,7 @@
 |---|:---:|:---:|:---:|
 |장서진|[📚](https://arxiv.org/abs/1703.10593v6)||업로드 완료|
 |김시정|||
-|하수민|||
+|하수민|[📚](https://arxiv.org/abs/1904.01941)||
 |박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)||
 |이은빈|[📚](https://ieeexplore.ieee.org/document/9023098)|[🧑🏻‍💻](https://silver-spike-7ea.notion.site/Speech-Emotion-Recognition-Using-Speech-Feature-and-Word-Embedding-422941072f3d4f919ca34145d36b93f7)|
 |문수인|[📚](https://arxiv.org/pdf/1908.07442.pdf)||
