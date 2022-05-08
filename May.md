@@ -6,7 +6,7 @@
 |김시정|[📚](https://arxiv.org/abs/1906.08172)||
 |하수민|[📚](https://arxiv.org/pdf/1905.00641.pdf)||
 |박채린|[📚](https://arxiv.org/pdf/2104.00298.pdf)||||
-|이은빈|[📚](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129067)||업로드 완료|
+|이은빈|[📚](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129067)||[✅]()|
 |문수인|||
 
 <br>
@@ -15,7 +15,7 @@
 
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
-|장서진|[📚](https://arxiv.org/abs/1703.10593v6)||업로드 완료|
+|장서진|[📚](https://arxiv.org/abs/1703.10593v6)||[✅]()|
 |김시정|||
 |하수민|[📚](https://arxiv.org/abs/1904.01941)||
 |박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)||
