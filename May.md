@@ -19,5 +19,5 @@
 |김시정|||
 |하수민|||
 |박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)||
-|이은빈|||
+|이은빈|[📚](https://ieeexplore.ieee.org/document/9023098)||
 |문수인|||
