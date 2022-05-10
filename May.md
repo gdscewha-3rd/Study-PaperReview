@@ -6,7 +6,7 @@
 |김시정|[📚](https://arxiv.org/abs/1906.08172)||
 |하수민|[📚](https://arxiv.org/pdf/1905.00641.pdf)||
 |박채린|[📚](https://arxiv.org/pdf/2104.00298.pdf)||||
-|이은빈|[📚](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129067)||[✅]()|
+|이은빈|[📚](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129067)||[✅](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-2%EC%A3%BC%EC%B0%A8)|
 |문수인|||
 
 <br>
