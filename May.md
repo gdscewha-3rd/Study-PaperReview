@@ -29,7 +29,7 @@
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
 |장서진||||
-|김시정|||
+|김시정|[📚](https://arxiv.org/abs/1909.09586)||
 |하수민|[📚](https://arxiv.org/abs/1406.2661)||
 |박채린|[📚](https://www.koreascience.or.kr/article/JAKO202111037333961.pdf)||
 |이은빈|||
