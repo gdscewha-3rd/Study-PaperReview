@@ -33,4 +33,4 @@
 |하수민|[📚](https://arxiv.org/abs/1406.2661)||
 |박채린|[📚](https://www.koreascience.or.kr/article/JAKO202111037333961.pdf)||
 |이은빈|||
-|문수인|||
+|문수인|[📚](https://arxiv.org/pdf/1611.01578.pdf)||
