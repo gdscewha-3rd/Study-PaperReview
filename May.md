@@ -21,3 +21,16 @@
 |박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)||
 |이은빈|[📚](https://ieeexplore.ieee.org/document/9023098)|[🧑🏻‍💻](https://silver-spike-7ea.notion.site/Speech-Emotion-Recognition-Using-Speech-Feature-and-Word-Embedding-422941072f3d4f919ca34145d36b93f7)|
 |문수인|[📚](https://arxiv.org/pdf/1908.07442.pdf)||
+
+<br>
+
+> 22.05.09 - 22.05.15
+
+|Name|Paper|Post (optional)|팀블로그|
+|---|:---:|:---:|:---:|
+|장서진||||
+|김시정|||
+|하수민|||
+|박채린|[📚](https://www.koreascience.or.kr/article/JAKO202111037333961.pdf)||
+|이은빈|||
+|문수인|||
