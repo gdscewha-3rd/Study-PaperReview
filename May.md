@@ -42,7 +42,7 @@
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
 |장서진|[📚](https://arxiv.org/pdf/1506.02640.pdf)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/You-Only-Look-Once-Unified-Real-Time-Object-Detection-b617f3041f8a4a09b0174f837615b223)||
-|김시정|[]()||
+|김시정|[📚](https://arxiv.org/abs/1706.03762)||
 |하수민|[📚](https://arxiv.org/pdf/2006.04305.pdf)||
 |박채린|휴식||[✅]()|
 |이은빈|[]()||
