@@ -30,7 +30,7 @@
 |---|:---:|:---:|:---:|
 |장서진|휴식|||
 |김시정|[📚](https://arxiv.org/abs/1909.09586)||
-|하수민|[📚](https://arxiv.org/abs/1406.2661)||[✅]([https://gdscewha.tistory.com/manage/posts/](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-4%EC%A3%BC%EC%B0%A8))|
+|하수민|[📚](https://arxiv.org/abs/1406.2661)||[✅](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-4%EC%A3%BC%EC%B0%A8)|
 |박채린|[📚](https://www.koreascience.or.kr/article/JAKO202111037333961.pdf)||
 |이은빈|[📚](https://arxiv.org/abs/2001.09700)||
 |문수인|[📚](https://arxiv.org/pdf/1611.01578.pdf)||
