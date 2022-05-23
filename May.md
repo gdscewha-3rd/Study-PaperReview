@@ -45,5 +45,5 @@
 |김시정|[📚](https://arxiv.org/abs/1706.03762)||
 |하수민|[📚](https://arxiv.org/pdf/2006.04305.pdf)||
 |박채린|휴식||[✅]()|
-|이은빈|[]()||
+|이은빈|[📚](https://ieeexplore.ieee.org/document/8843900)||
 |문수인|[📚](https://arxiv.org/pdf/1709.00103.pdf)||
