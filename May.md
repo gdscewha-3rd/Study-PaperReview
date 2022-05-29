@@ -54,7 +54,7 @@
 
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
-|장서진|[]()||
+|장서진|[📚](https://arxiv.org/abs/2005.12872)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/DETR-End-to-End-Object-Detection-with-Transformers-a54959e249704a7bac2de167eaf10289)|
 |김시정|[]()||
 |하수민|[]()||
 |박채린|[]()||
