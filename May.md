@@ -59,4 +59,4 @@
 |하수민|[]()||
 |박채린|[]()||
 |이은빈|[]()||
-|문수인|[📚](https://arxiv.org/pdf/1810.04805.pdf)||[✅]()|
+|문수인|[📚](https://arxiv.org/pdf/1810.04805.pdf)||[✅](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-6%EC%A3%BC%EC%B0%A8)|
