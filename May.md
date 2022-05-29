@@ -57,6 +57,6 @@
 |장서진|[📚](https://arxiv.org/abs/2005.12872)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/DETR-End-to-End-Object-Detection-with-Transformers-a54959e249704a7bac2de167eaf10289)|
 |김시정|[]()||
 |하수민|[]()||
-|박채린|[]()||
+|박채린|[📚](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)||
 |이은빈|[]()||
 |문수인|[📚](https://arxiv.org/pdf/1810.04805.pdf)||[✅](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-6%EC%A3%BC%EC%B0%A8)|
