@@ -44,7 +44,7 @@
 |장서진|[📚](https://arxiv.org/pdf/1506.02640.pdf)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/You-Only-Look-Once-Unified-Real-Time-Object-Detection-b617f3041f8a4a09b0174f837615b223)||
 |김시정|[📚](https://arxiv.org/abs/1706.03762)||
 |하수민|[📚](https://arxiv.org/pdf/2006.04305.pdf)||
-|박채린|휴식||[✅]()|
+|박채린|휴식||[✅](https://gdscewha.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-5%EC%A3%BC%EC%B0%A8?category=1006789)|
 |이은빈|[📚](https://ieeexplore.ieee.org/document/8843900)||
 |문수인|[📚](https://arxiv.org/pdf/1709.00103.pdf)||
 
