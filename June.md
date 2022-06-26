@@ -4,10 +4,10 @@
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
 |장서진|[📚](https://arxiv.org/abs/1911.09070)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/EfficientDet-Scalable-and-Efficient-Object-Detection-efc7247294a34eb2b5bd5d1560f0c1d7)|
-|김시정|[휴식]()||[✅]()|
+|김시정|휴식||[✅]()|
 |하수민|[]()||
 |박채린|휴식||
-|이은빈|[휴식]()||
+|이은빈|휴식||
 |문수인|[📚](https://arxiv.org/pdf/2004.14448.pdf)||
 
 <br>
