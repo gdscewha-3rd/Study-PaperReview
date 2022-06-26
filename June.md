@@ -20,7 +20,7 @@
 |장서진|[📚](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/Rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation-094a2f2bb45c4fad8797b9a6bdef76c1)|
 |김시정|[📚](https://ieeexplore.ieee.org/document/8809096)||
 |하수민|[]()||
-|박채린|[]()||
+|박채린|[📚](https://www.google.com/url?sa=t&source=web&rct=j&url=http://arxiv.org/abs/1706.03762&ved=2ahUKEwi6iNaRr8v4AhVpE3AKHVwdDqUQs2YoAHoECAYQAg&usg=AOvVaw2D-25ZjOAqxfZrlnVeyME3)||
 |이은빈|[]()||[✅]()|
 |문수인|[📚](https://arxiv.org/pdf/1704.05796.pdf)||
 
