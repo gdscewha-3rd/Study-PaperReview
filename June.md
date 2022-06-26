@@ -18,7 +18,7 @@
 |Name|Paper|Post (optional)|팀블로그|
 |---|:---:|:---:|:---:|
 |장서진|[📚](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)|[🧑🏻‍💻](https://sulky-waltz-11f.notion.site/Rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation-094a2f2bb45c4fad8797b9a6bdef76c1)|
-|김시정|[✅](https://ieeexplore.ieee.org/document/8809096)||
+|김시정|[📚](https://ieeexplore.ieee.org/document/8809096)||
 |하수민|[]()||
 |박채린|[]()||
 |이은빈|[]()||[✅]()|
